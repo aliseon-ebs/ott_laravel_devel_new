@@ -1,0 +1,1 @@
+exhibition view {{ $request }}

@@ -1,0 +1,7494 @@
+/* screen - voyage */
+
+.border-0-2px-quick-silver {
+  border: 0.2px solid var(--quick-silver);
+}
+.border-1px-cape-cod {
+  border: 1px solid var(--cape-cod);
+}
+.border-1px-celeste {
+  border: 1px solid var(--celeste);
+}
+.border-1px-gallery {
+  border: 1px solid var(--gallery);
+}
+.border-1px-quick-silver {
+  border: 1px solid var(--quick-silver);
+}
+.border-1px-tundora {
+  border: 1px solid var(--tundora);
+}
+.border-1px-white {
+  border: 1px solid var(--white);
+}
+.border-2px-cape-cod {
+  border: 2px solid var(--cape-cod);
+}
+.border-class-1 {
+  border: 1px solid rgba(165,165,165,1.0);
+}
+.roboto-bold-cape-cod-15px {
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-dodger-blue-15px {
+  color: var(--dodger-blue);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-bold-tundora-18px {
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-normal-cape-cod-12px {
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-cape-cod-15px {
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-dodger-blue-15px {
+  color: var(--dodger-blue);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-tuatara-15px {
+  color: var(--tuatara);
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+}
+.roboto-normal-tundora-11px {
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-tundora-12px {
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage {
+  background-color: var(--white);
+  height: 3388px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.voyage .a-trend-C61RwL {
+  background-color: transparent;
+  color: var(--quick-silver);
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 236px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .aed-40000-6u3FIH {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-PPAs23 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-U3rBB4 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-YgihxS {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-aOiDme {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-cmprEu {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-d6ZmTp {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-iLofl5 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-tBoSDN {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-uOAcW3 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-xgMQyl {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aed-40000-ynslBP {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(34.34% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .aliseon-global-support-team-qWWZGA {
+  background-color: transparent;
+  bottom: -4px;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 166px;
+}
+.voyage .aliseon-o2-o-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 311px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .aliseon-official-channel-9BeHfp {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .appliance-n7LZdK {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.28% - 40px);
+  text-align: center;
+  white-space: nowrap;
+  width: 82px;
+}
+.voyage .backgu-subscriber-50-k-2FhGRd {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-8iBMCY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-95x6Fd {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-D5plLM {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-QsZRLM {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-UuyUD9 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-Xh8sJh {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-iP0Kgl {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-lxPCSH {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-oczWSD {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-wB5MKR {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .backgu-subscriber-50-k-xsZtm2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .beauty-EdjAPJ {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.78% - 28px);
+  text-align: center;
+  white-space: nowrap;
+  width: 58px;
+}
+.voyage .careers-notice-llaboration-faq-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 175px;
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 3083px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .category-UjLVP7 {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 62px;
+}
+.voyage .comment-C3kPG0 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-GWFVpu {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-IZkxXb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-JhUdRX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-KInzDY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-PvnXZi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-QwWssK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-SGgxFy {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-XV5HVL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-aI0LAX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-cYaqF3 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .comment-mowxi8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: calc(47.06% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 55px;
+}
+.voyage .copyright-2020-right-reserved-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 3364px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .cross-border-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 736px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .email-support-agsspx {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 77px;
+}
+.voyage .english-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .enter-your-email-address-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 881px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 3266px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .event-coupon-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1001px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .fashion-rwomxF {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.65% - 32px);
+  text-align: center;
+  white-space: nowrap;
+  width: 66px;
+}
+.voyage .flagofthe-un-arab-emirates-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: -1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 9px);
+}
+.voyage .flash-deal-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 878px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .follow-us-9BeHfp {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  height: 31px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 98px;
+}
+.voyage .font-awsome-angle-left-u4gxT8 {
+  background-color: transparent;
+  height: 12px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 20px);
+}
+.voyage .font-awsome-chevron-down-UjLVP7 {
+  background-color: transparent;
+  bottom: calc(40.00% - 4px);
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 17px;
+}
+.voyage .font-awsome-envelope-C61RwL {
+  background-color: transparent;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 3340px;
+  width: 13px;
+}
+.voyage .font-awsome-facebook-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 521px;
+  position: absolute;
+  top: 3296px;
+  width: 27px;
+}
+.voyage .font-awsome-headset-C61RwL {
+  background-color: transparent;
+  height: 13px;
+  left: 11px;
+  position: absolute;
+  top: 3319px;
+  width: 13px;
+}
+.voyage .font-awsome-map-marker-alt-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  position: absolute;
+  top: 3296px;
+  width: 12px;
+}
+.voyage .font-awsome-phone-volume-PlhryW {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 2px;
+  top: 3px;
+  width: 26px;
+}
+.voyage .font-awsome-phone-volume-VmKgPQ {
+  background-color: transparent;
+  height: 39px;
+  position: absolute;
+  right: calc(33.89% - 13px);
+  top: calc(47.63% - 19px);
+  width: 38px;
+}
+.voyage .font-awsome-search-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 1059px;
+  position: absolute;
+  top: 161px;
+  width: 15px;
+}
+.voyage .font-awsome-store-A8ue6a {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-store-D6vXiD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-store-EM4yZN {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-store-cnmQaD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-store-j7ivoM {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-store-kgXAt1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 17px;
+  position: absolute;
+  right: calc(45.26% - 9px);
+  width: 20px;
+}
+.voyage .font-awsome-twitter-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 654px;
+  position: absolute;
+  top: 3300px;
+  width: 28px;
+}
+.voyage .font-awsome-youtube-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 585px;
+  position: absolute;
+  top: 3300px;
+  width: 33px;
+}
+.voyage .for-creator-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 972px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .for-seller-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1060px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .forest-camp-lam-forest-camp-ste-6u3FIH {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-PPAs23 {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-U3rBB4 {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-YgihxS {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-aOiDme {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-cmprEu {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-d6ZmTp {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-iLofl5 {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-tBoSDN {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-uOAcW3 {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-xgMQyl {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .forest-camp-lam-forest-camp-ste-ynslBP {
+  background-color: transparent;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(43.33% - 69px);
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 159px;
+}
+.voyage .fresh-food-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 434px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .grocery-WRpEbA {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.65% - 32px);
+  text-align: center;
+  white-space: nowrap;
+  width: 66px;
+}
+.voyage .health-2dXvf2 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(48.81% - 27px);
+  text-align: center;
+  white-space: nowrap;
+  width: 56px;
+}
+.voyage .kids-9H9UgM {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.02% - 19px);
+  text-align: center;
+  white-space: nowrap;
+  width: 38px;
+}
+.voyage .knightley-35-an-ng-on-a-project-3xQKkA {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-7nhKra {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-JaZedW {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-NrZDrD {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-OZGsaa {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-bexhqp {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-dRKUpB {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-emxX0p {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-iTJilb {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-ucgKgB {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-x4S16T {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .knightley-35-an-ng-on-a-project-xVwfEk {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 390px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .lets-voyage-6RMEFD {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: calc(49.92% - 119px);
+  letter-spacing: 0.80px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 238px;
+}
+.voyage .lets-voyage-with-aliseon-6RMEFD {
+  background-color: transparent;
+  bottom: -5px;
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 26px;
+  letter-spacing: 0.36px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.92% - 114px);
+  text-align: center;
+  white-space: nowrap;
+  width: 228px;
+}
+.voyage .life-nYrbPa {
+  background-color: transparent;
+  bottom: 3px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.07% - 16px);
+  text-align: center;
+  white-space: nowrap;
+  width: 32px;
+}
+.voyage .like-C3kPG0 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-GWFVpu {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-IZkxXb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-JhUdRX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-KInzDY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-PvnXZi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-QwWssK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-SGgxFy {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-XV5HVL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-aI0LAX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-cYaqF3 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .like-mowxi8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 24px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-MnpgPI {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-UXw7MH {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-cogpZ9 {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-ivplvY {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-k2gCOa {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .lorem-ipsum-dol-sadipscing-elit-s4Cnlb {
+  background-color: transparent;
+  bottom: calc(39.77% - 17px);
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 771px;
+}
+.voyage .our-buyer-prote-ick-to-delivery-d4Lr1u {
+  background-color: transparent;
+  bottom: -6px;
+  color: rgba(3,3,3,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .pay-with-the-wo-payment-methods-xRSCsl {
+  background-color: transparent;
+  bottom: -6px;
+  color: rgba(3,3,3,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .phone-support-MiNAnM {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.voyage .round-the-clock-ping-experience-bS5lvx {
+  background-color: transparent;
+  bottom: -6px;
+  color: rgba(3,3,3,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .safe-payment-n7GqqL {
+  background-color: transparent;
+  bottom: calc(26.91% - 6px);
+  height: 22px;
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .save-big-on-your-app-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .search-for-the-ou-want-to-find-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 414px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .share-24px-7SCOtT {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-Exo0JM {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-GmY0Hk {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-M2oj2Q {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-X0Rf9q {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-agckyg {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-bEzXyw {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-bpGYuv {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-tOYCgh {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-xUWNyY {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-yaxrlW {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-24px-zXCKtv {
+  background-color: transparent;
+  background-image: url(../img/file---49@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .share-C3kPG0 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-GWFVpu {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-IZkxXb {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-JhUdRX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-KInzDY {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-PvnXZi {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-QwWssK {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-SGgxFy {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-XV5HVL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-aI0LAX {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-cYaqF3 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .share-mowxi8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 33px;
+}
+.voyage .ship-to-uae-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .shop-with-confidence-DjRLgY {
+  background-color: transparent;
+  bottom: calc(30.80% - 7px);
+  height: 22px;
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 155px;
+}
+.voyage .span0-5sqfGX {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-6S8pB2 {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-8mlxWN {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-BgwgeB {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-I6UHOH {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-RkTz1x {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-SiYp7y {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-XRRtaw {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-gofLGC {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-jgMDEz {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-oFcPDa {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span0-xPPZxe {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.voyage .span1-5sqfGX {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-6S8pB2 {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-8mlxWN {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-BgwgeB {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-I6UHOH {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-RkTz1x {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-SiYp7y {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-XRRtaw {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-gofLGC {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-jgMDEz {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-oFcPDa {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .span1-xPPZxe {
+  color: rgba(54,54,54,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.voyage .special-exhibition-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1151px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .subscribe-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1155px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 3266px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .subscribe-service-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 563px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 238px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .support-center-0kdqSe {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 82px;
+}
+.voyage .supportmenaaliseoncom-0kdqSe {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .supportmenaaliseoncom-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 3334px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .supportmenaaliseoncom-agsspx {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--tundora);
+  font-family: 'Roboto', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .top-u4gxT8 {
+  background-color: transparent;
+  bottom: -1px;
+  color: var(--quick-silver);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(42.86% - 11px);
+  text-align: center;
+  white-space: nowrap;
+  width: 26px;
+}
+.voyage .track-your-order-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .usd-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 238px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .view-1100-3-category-8HR3lx {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-C6CjSZ {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-FX93c3 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-IoQ2PA {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-K41zZe {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-L0FHXU {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-MFa00D {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-QONCeZ {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-VCY2LY {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-sbQgxi {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-uDxmoL {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .view-1100-3-category-uS5juL {
+  background-color: transparent;
+  bottom: -4px;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 160px;
+}
+.voyage .voyage-C61RwL {
+  background-color: transparent;
+  color: var(--dodger-blue);
+  font-family: 'Roboto', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 196px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 236px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .we-are-always-r-you-who-love-us-qWWZGA {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .whats-app-us-8uD1Wd {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .william-john-A8ue6a {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .william-john-D6vXiD {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .william-john-EM4yZN {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .william-john-cnmQaD {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .william-john-j7ivoM {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .william-john-kgXAt1 {
+  background-color: transparent;
+  color: var(--cape-cod);
+  font-family: 'Roboto', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 119px;
+}
+.voyage .williams-store-A8ue6a {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .williams-store-D6vXiD {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .williams-store-EM4yZN {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .williams-store-cnmQaD {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .williams-store-j7ivoM {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .williams-store-kgXAt1 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+.voyage .with-sites-in-5-untries-regions-7xRDge {
+  background-color: transparent;
+  bottom: -6px;
+  color: rgba(3,3,3,1.0);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.voyage .worldwide-delivery-wEwz4d {
+  background-color: transparent;
+  bottom: calc(6.24% - 1px);
+  height: 22px;
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 136px;
+}
+.voyage .x-C61RwL {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: 'Roboto', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .x1-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: 15px;
+  position: absolute;
+  top: 96px;
+  width: 29px;
+}
+.voyage .x10-rqOTCq {
+  background-color: var(--cultured-pearl);
+  border-radius: 5px;
+  height: 100%;
+  left: calc(50.00% - 5px);
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+.voyage .x109-0wa0p1 {
+  background-color: rgba(59,59,59,1.0);
+  height: 100%;
+  left: 0px;
+  opacity: 0.7;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x10991-6RMEFD {
+  background-color: transparent;
+  bottom: calc(36.56% - 9px);
+  height: 25px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.voyage .x11-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: -334px;
+  position: absolute;
+  top: 3239px;
+  width: 1920px;
+}
+.voyage .x11-rqOTCq {
+  background-color: var(--cultured-pearl);
+  border-radius: 5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 10px;
+}
+.voyage .x11470-1bnOMK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-55rjpp {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-CXShkh {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-FqKdpB {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-PKyKlj {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-QHwSr2 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-QkCmag {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-a0dGBx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-hS1WXx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-vSxLnx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-xbQC2x {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11470-xxOqxg {
+  background-color: transparent;
+  bottom: 1px;
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  width: 6px;
+}
+.voyage .x11476-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 280px;
+  position: absolute;
+  top: 236px;
+  width: 1px;
+}
+.voyage .x116-owxcwe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 26px;
+}
+.voyage .x121-RZy293 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(50.00% - 9px);
+  position: relative;
+  top: calc(50.00% - 7px);
+  width: 18px;
+}
+.voyage .x123-qevphN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.voyage .x125-C61RwL {
+  background-color: rgba(66,165,245,1.0);
+  height: 29px;
+  left: 1134px;
+  position: absolute;
+  top: 3259px;
+  width: 3px;
+}
+.voyage .x1299-AJyY4g {
+  background-color: var(--dodger-blue);
+  bottom: 1px;
+  height: 29px;
+  left: calc(37.02% - 2px);
+  position: absolute;
+  width: 6px;
+}
+.voyage .x1299-vfbjtJ {
+  background-color: var(--white);
+  bottom: 1px;
+  height: 23px;
+  left: calc(37.02% - 2px);
+  position: absolute;
+  width: 5px;
+}
+.voyage .x144-0wa0p1 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: 3px;
+  top: 2px;
+  width: 15px;
+}
+.voyage .x1523-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 24px;
+  position: absolute;
+  top: 150px;
+  width: 190px;
+}
+.voyage .x1523-aCTCdX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x1528-VmKgPQ {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: calc(23.73% - 8px);
+  top: calc(50.00% - 16px);
+  width: 32px;
+}
+.voyage .x1529-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 3248px;
+  width: 154px;
+}
+.voyage .x159-VmKgPQ {
+  background-color: transparent;
+  border-radius: 16px;
+  height: 32px;
+  left: calc(38.82% - 12px);
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 32px;
+}
+.voyage .x160-VmKgPQ {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 24px;
+  position: absolute;
+  right: calc(47.78% - 15px);
+  top: calc(50.00% - 12px);
+  width: 32px;
+}
+.voyage .x161-1DD0X8 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(36.95% - 3px);
+  position: absolute;
+  top: calc(40.62% - 8px);
+  width: 9px;
+}
+.voyage .x164-2pOUeq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x1647-3xQKkA {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-7nhKra {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-JaZedW {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-NrZDrD {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-OZGsaa {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-bexhqp {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-dRKUpB {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-emxX0p {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-iTJilb {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-ucgKgB {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-x4S16T {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x1647-xVwfEk {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  height: 540px;
+  left: 0px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 296px;
+}
+.voyage .x167-8GZCVq {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+.voyage .x17-C3kPG0 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-GWFVpu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-IZkxXb {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-JhUdRX {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-KInzDY {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-PvnXZi {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-QwWssK {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-SGgxFy {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-XV5HVL {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-aI0LAX {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-cYaqF3 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x17-mowxi8 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 14px;
+}
+.voyage .x18-E4DgI9 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 14px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+.voyage .x18-P9Uhvi {
+  background-color: rgba(227,5,0,1.0);
+  border-radius: 8px/7.5px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.voyage .x18-zQ8SnY {
+  background-color: rgba(227,5,0,1.0);
+  border-radius: 8px/7.5px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.voyage .x19-E4DgI9 {
+  background-color: transparent;
+  border-radius: 5.5px;
+  height: 13px;
+  left: calc(42.85% - 6px);
+  position: absolute;
+  top: -1px;
+  width: 13px;
+}
+.voyage .x19-fJkOLz {
+  background-color: transparent;
+  bottom: -1px;
+  height: 15px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+.voyage .x197-C3kPG0 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-GWFVpu {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-IZkxXb {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-JhUdRX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-KInzDY {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-PvnXZi {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-QwWssK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-SGgxFy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-XV5HVL {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-aI0LAX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-cYaqF3 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x197-mowxi8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(38.11% - 4px);
+  width: 12px;
+}
+.voyage .x2-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: 867px;
+  position: absolute;
+  top: 3300px;
+  width: 45px;
+}
+.voyage .x2-P9Uhvi {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(35.71% - 3px);
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 9px;
+}
+.voyage .x2-QBxKx3 {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-180deg);
+  width: 11px;
+}
+.voyage .x2-zQ8SnY {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  right: calc(35.71% - 3px);
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 9px;
+}
+.voyage .x20-fJkOLz {
+  background-color: transparent;
+  height: 11px;
+  left: calc(15.80% - 1px);
+  position: absolute;
+  top: -1px;
+  width: 8px;
+}
+.voyage .x2020-08-04-113633-C61RwL {
+  background-color: transparent;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+.voyage .x21-fJkOLz {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: calc(18.47% - 1px);
+  top: -1px;
+  width: 7px;
+}
+.voyage .x2176-C61RwL {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 25px;
+  left: 461px;
+  position: absolute;
+  top: 3297px;
+  width: 25px;
+}
+.voyage .x23-fJkOLz {
+  background-color: transparent;
+  bottom: -1px;
+  height: 15px;
+  position: absolute;
+  right: calc(36.13% - 1px);
+  width: 2px;
+}
+.voyage .x24-fJkOLz {
+  background-color: transparent;
+  bottom: -1px;
+  height: 15px;
+  left: calc(35.37% - 1px);
+  position: absolute;
+  width: 2px;
+}
+.voyage .x247-help-center-7r2rvv {
+  background-color: transparent;
+  bottom: calc(22.26% - 5px);
+  height: 22px;
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 121px;
+}
+.voyage .x266-9e7Dxw {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-C4HwX7 {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-FG7Hws {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-VECYJm {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-bJ7oPi {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-fUqqxg {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-fpogp0 {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-kGSxsk {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-oLgSIT {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-qUxuFL {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-xC16Ip {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x266-xKXa2V {
+  background-color: var(--quick-silver);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-9e7Dxw {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-C4HwX7 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-FG7Hws {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-VECYJm {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-bJ7oPi {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-fUqqxg {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-fpogp0 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-kGSxsk {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-oLgSIT {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-qUxuFL {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-xC16Ip {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x267-xKXa2V {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  left: calc(33.33% - 2px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-9e7Dxw {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-C4HwX7 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-FG7Hws {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-VECYJm {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-bJ7oPi {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-fUqqxg {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-fpogp0 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-kGSxsk {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-oLgSIT {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-qUxuFL {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-xC16Ip {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x268-xKXa2V {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: calc(33.33% - 2px);
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-9e7Dxw {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-C4HwX7 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-FG7Hws {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-VECYJm {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-bJ7oPi {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-fUqqxg {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-fpogp0 {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-kGSxsk {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-oLgSIT {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-qUxuFL {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-xC16Ip {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x269-xKXa2V {
+  background-color: var(--cultured-pearl);
+  border-radius: 3.6213550567626953px/3.6213579177856445px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 7px;
+}
+.voyage .x27-jp6zNl {
+  background-color: transparent;
+  border-radius: 2.5px;
+  height: 5px;
+  position: absolute;
+  right: calc(48.15% - 2px);
+  top: calc(22.22% - 1px);
+  width: 5px;
+}
+.voyage .x28-HLiAw5 {
+  background-color: transparent;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: calc(19.27% - 1px);
+  width: calc(100.00% - 9px);
+}
+.voyage .x29-1DD0X8 {
+  background-color: var(--white);
+  border-radius: 16.5px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 33px;
+}
+.voyage .x29-HLiAw5 {
+  background-color: transparent;
+  bottom: calc(17.80% - 1px);
+  height: 3px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+.voyage .x3-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: 929px;
+  position: absolute;
+  top: 3300px;
+  width: 45px;
+}
+.voyage .x30-1DD0X8 {
+  background-color: var(--white);
+  border-radius: 16.5px;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 33px;
+}
+.voyage .x30-HLiAw5 {
+  background-color: transparent;
+  bottom: 47.67%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+.voyage .x31-HLiAw5 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: calc(35.30% - 2px);
+  position: absolute;
+  top: 1px;
+  width: 5px;
+}
+.voyage .x31-xSJ6Xq {
+  background-color: transparent;
+  border-radius: 3px;
+  bottom: 0px;
+  height: 6px;
+  position: absolute;
+  right: calc(30.55% - 2px);
+  width: 6px;
+}
+.voyage .x32-G6jAgi {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-HLiAw5 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: calc(41.10% - 2px);
+  top: 1px;
+  width: 5px;
+}
+.voyage .x32-J5errQ {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-R3ghUz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-RAeQCF {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-UX0F0y {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-g89Tgt {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-MnpgPI {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-UXw7MH {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-cogpZ9 {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-ivplvY {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-k2gCOa {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-k-subscriber-ibe-64-k-posted-s4Cnlb {
+  background-color: transparent;
+  bottom: 10px;
+  height: 22px;
+  left: calc(26.94% - 84px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 310px;
+}
+.voyage .x32-kKH5C6 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-lvV8xI {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-soUx5O {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-tib4hN {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-xc4SLg {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x32-zmifE3 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x33-C3kPG0 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-GWFVpu {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-IZkxXb {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-JhUdRX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-KInzDY {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-PvnXZi {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-QwWssK {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-SGgxFy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-XV5HVL {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-aI0LAX {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-cYaqF3 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-mowxi8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x33-sCVENR {
+  background-color: transparent;
+  border-radius: 6.5px;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 12px);
+}
+.voyage .x3367-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 299px;
+  position: absolute;
+  top: 158px;
+  width: 89px;
+}
+.voyage .x34-sCVENR {
+  background-color: transparent;
+  border-radius: 1.5px;
+  height: 3px;
+  position: absolute;
+  right: calc(18.18% - 1px);
+  top: 3px;
+  width: 3px;
+}
+.voyage .x3436-6t4lDe {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-6u3FIH {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-8EncPJ {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-8wdwQ2 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-E9BKdS {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-Ei3Mxx {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-HIjhmP {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-PPAs23 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-U3rBB4 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-YgihxS {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-aOiDme {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-cmprEu {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-d6ZmTp {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-iLofl5 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-iqmx9F {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-ix0xbz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-jMBI6x {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-k9bstD {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-sjXhVU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-tBoSDN {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-uOAcW3 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-xgMQyl {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x3436-xso0GD {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x3436-ynslBP {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.voyage .x35-GEx0YN {
+  background-color: transparent;
+  height: 6px;
+  position: absolute;
+  right: calc(49.54% - 4px);
+  top: 1px;
+  width: 8px;
+}
+.voyage .x35-ZxZcms {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 2px);
+}
+.voyage .x36-ZxZcms {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: calc(100.00% + 2px);
+}
+.voyage .x364-6RMEFD {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 38.30%;
+  width: 456px;
+}
+.voyage .x365-6RMEFD {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 0px;
+  top: 38.30%;
+  width: 456px;
+}
+.voyage .x37-ZxZcms {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+.voyage .x38-3xQKkA {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-7nhKra {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-JaZedW {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-NrZDrD {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-OZGsaa {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-bexhqp {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-dRKUpB {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-emxX0p {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-iTJilb {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-ucgKgB {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-x4S16T {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x38-xVwfEk {
+  background-color: transparent;
+  height: 15px;
+  left: 271px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-3xQKkA {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-7nhKra {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-JaZedW {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-NrZDrD {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-OZGsaa {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-bexhqp {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-dRKUpB {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-emxX0p {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-iTJilb {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-ucgKgB {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-x4S16T {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x39-xVwfEk {
+  background-color: transparent;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 219px;
+  width: 9px;
+}
+.voyage .x4-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 990px;
+  position: absolute;
+  top: 3301px;
+  width: 44px;
+}
+.voyage .x4-drhxzQ {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.voyage .x40-UzbZMd {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 14px;
+}
+.voyage .x41-UzbZMd {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  width: 14px;
+}
+.voyage .x420-BBC8Ns {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-Cu2Zo6 {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-D9xAiR {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-JCvDfF {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-KC38eI {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-OXqYHj {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-Rsxpsg {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-Z7ps1Y {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-nxXrti {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-oOQxC1 {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-wIdj5L {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x420-xgdo1v {
+  background-color: transparent;
+  border-radius: 25px;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+.voyage .x429-MnpgPI {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x429-UXw7MH {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x429-cogpZ9 {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x429-ivplvY {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x429-k2gCOa {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x429-s4Cnlb {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+.voyage .x4344-al-rais-sh-bai-uae-pb-6899-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 3294px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .x443-1bnOMK {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-55rjpp {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-CXShkh {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-FqKdpB {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-PKyKlj {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-QHwSr2 {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-QkCmag {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-a0dGBx {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-hS1WXx {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-vSxLnx {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-xbQC2x {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x443-xxOqxg {
+  background-color: transparent;
+  border-radius: 4.913232326507568px/4.991196632385254px;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x45-UggbPy {
+  background-color: transparent;
+  height: calc(100.00% + 5px);
+  left: 6px;
+  position: absolute;
+  top: -4px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x46-DaFjjk {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 3px);
+}
+.voyage .x46-drhxzQ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 12px;
+  position: absolute;
+  right: calc(44.35% - 8px);
+  width: 19px;
+}
+.voyage .x47-DaFjjk {
+  background-color: transparent;
+  height: calc(100.00% + 3px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 3px);
+}
+.voyage .x47-UggbPy {
+  background-color: transparent;
+  height: calc(100.00% + 5px);
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: calc(100.00% - 3px);
+}
+.voyage .x48-XDGQv5 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 43.91%;
+  top: 0px;
+  width: 1px;
+}
+.voyage .x48-jp6zNl {
+  background-color: transparent;
+  bottom: calc(31.87% - 4px);
+  height: 14px;
+  position: absolute;
+  right: calc(49.14% - 3px);
+  width: 7px;
+}
+.voyage .x49-olH1Sz {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 100%;
+}
+.voyage .x49-qevphN {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 44.71%;
+  width: 100%;
+}
+.voyage .x5-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 36px;
+  left: 286px;
+  position: absolute;
+  top: 150px;
+  width: 800px;
+}
+.voyage .x5-VMr6Om {
+  background-color: transparent;
+  height: 45px;
+  left: 1173px;
+  position: absolute;
+  top: 3302px;
+  width: 45px;
+}
+.voyage .x5-VmKgPQ {
+  background-color: transparent;
+  height: 27px;
+  left: 348px;
+  position: absolute;
+  top: calc(49.12% - 13px);
+  width: 31px;
+}
+.voyage .x50-5MBUn3 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-DwuPnU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-J42h1F {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-Og75ox {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-XU7jfN {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-iPUup8 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-iSmwD4 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-j6Etp7 {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-jwcOIB {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-olH1Sz {
+  background-color: transparent;
+  bottom: 2px;
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  width: 13px;
+}
+.voyage .x50-qevphN {
+  background-color: transparent;
+  bottom: 22.11%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.voyage .x50-wYoepY {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-xnKkuf {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x50-zDJx6d {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+.voyage .x51-olH1Sz {
+  background-color: transparent;
+  bottom: 2px;
+  height: 10px;
+  position: absolute;
+  right: 1px;
+  width: 13px;
+}
+.voyage .x5176-n7GqqL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.voyage .x5177-DjRLgY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.voyage .x5178-7r2rvv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.voyage .x5179-wEwz4d {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.voyage .x5180-bS5lvx {
+  background-color: transparent;
+  height: 36px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+.voyage .x5181-d4Lr1u {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 186px;
+}
+.voyage .x5182-xRSCsl {
+  background-color: transparent;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5183-7xRDge {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.voyage .x5184-TQ9JGE {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 185px;
+}
+.voyage .x5185-TQ9JGE {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(31.46% - 71px);
+  top: 1px;
+  width: 227px;
+}
+.voyage .x5186-TQ9JGE {
+  background-color: transparent;
+  height: 100%;
+  left: calc(33.91% - 69px);
+  position: absolute;
+  top: 0px;
+  width: 202px;
+}
+.voyage .x5187-TQ9JGE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 214px;
+}
+.voyage .x52-XDGQv5 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% + 1px);
+}
+.voyage .x53-qevphN {
+  background-color: transparent;
+  height: 13px;
+  left: calc(48.20% - 6px);
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+.voyage .x54-xSJ6Xq {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: -1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+.voyage .x55-xSJ6Xq {
+  background-color: transparent;
+  bottom: calc(43.63% - 5px);
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: 7px;
+}
+.voyage .x56-xSJ6Xq {
+  background-color: transparent;
+  bottom: calc(43.63% - 5px);
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+.voyage .x5616-3xQKkA {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-7nhKra {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-JaZedW {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-NrZDrD {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-OZGsaa {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-bexhqp {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-dRKUpB {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-emxX0p {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-iTJilb {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-ucgKgB {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-x4S16T {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5616-xVwfEk {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 512px;
+  width: 265px;
+}
+.voyage .x5628-BBC8Ns {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-Cu2Zo6 {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-D9xAiR {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-JCvDfF {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-KC38eI {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-OXqYHj {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-Rsxpsg {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-Z7ps1Y {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-nxXrti {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-oOQxC1 {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-wIdj5L {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5628-xgdo1v {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 84px;
+}
+.voyage .x5653-3xQKkA {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-7nhKra {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-JaZedW {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-NrZDrD {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-OZGsaa {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-bexhqp {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-dRKUpB {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-emxX0p {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-iTJilb {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-ucgKgB {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-x4S16T {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5653-xVwfEk {
+  background-color: transparent;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 352px;
+  width: 43px;
+}
+.voyage .x5654-8HR3lx {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-C6CjSZ {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-FX93c3 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-IoQ2PA {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-K41zZe {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-L0FHXU {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-MFa00D {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-QONCeZ {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-VCY2LY {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-sbQgxi {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-uDxmoL {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5654-uS5juL {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 144px;
+}
+.voyage .x5655-3xQKkA {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-7nhKra {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-JaZedW {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-NrZDrD {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-OZGsaa {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-bexhqp {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-dRKUpB {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-emxX0p {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-iTJilb {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-ucgKgB {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-x4S16T {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5655-xVwfEk {
+  background-color: transparent;
+  height: 53px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 220px;
+}
+.voyage .x5656-6u3FIH {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-PPAs23 {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-U3rBB4 {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-YgihxS {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-aOiDme {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-cmprEu {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-d6ZmTp {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-iLofl5 {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-tBoSDN {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-uOAcW3 {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-xgMQyl {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5656-ynslBP {
+  background-color: transparent;
+  background-image: url(../img/file----5702@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 21px;
+}
+.voyage .x5657-3xQKkA {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-7nhKra {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-JaZedW {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-NrZDrD {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-OZGsaa {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-bexhqp {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-dRKUpB {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-emxX0p {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-iTJilb {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-ucgKgB {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-x4S16T {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5657-xVwfEk {
+  background-color: transparent;
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 427px;
+  width: 279px;
+}
+.voyage .x5658-3BEJxR {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-3p6rmU {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-6HsyY0 {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-AF7Lzw {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-NSUPCk {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-ToL9Kw {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-YMxxZF {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-isoOP6 {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-sLU4dg {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-txRbp2 {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-txu835 {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5658-wAnaJh {
+  background-color: var(--white);
+  box-shadow: 0px 0px 6px rgba(0,0,0,0.161);;
+  flex-shrink: 1;
+  height: 540px;
+  margin-left: 22px;
+  position: relative;
+  width: 296px;
+}
+.voyage .x5692-MnpgPI {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5692-UXw7MH {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5692-cogpZ9 {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5692-ivplvY {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5692-k2gCOa {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5692-s4Cnlb {
+  background-color: transparent;
+  height: 26px;
+  left: calc(24.67% - 62px);
+  position: absolute;
+  top: 14px;
+  width: 252px;
+}
+.voyage .x5701-6u3FIH {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-PPAs23 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-U3rBB4 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-YgihxS {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-aOiDme {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-cmprEu {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-d6ZmTp {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-iLofl5 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-tBoSDN {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-uOAcW3 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-xgMQyl {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5701-ynslBP {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 35px);
+}
+.voyage .x5703-3xQKkA {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-7nhKra {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-JaZedW {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-NrZDrD {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-OZGsaa {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-bexhqp {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-dRKUpB {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-emxX0p {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-iTJilb {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-ucgKgB {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-x4S16T {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5703-xVwfEk {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 80px;
+  width: 294px;
+}
+.voyage .x5704-3xQKkA {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-7nhKra {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-JaZedW {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-NrZDrD {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-OZGsaa {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-bexhqp {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-dRKUpB {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-emxX0p {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-iTJilb {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-ucgKgB {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-x4S16T {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5704-xVwfEk {
+  background-color: transparent;
+  height: 37px;
+  left: -1px;
+  position: absolute;
+  top: 502px;
+  width: 296px;
+}
+.voyage .x5803-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 1226px;
+  position: absolute;
+  top: 2951px;
+  width: 40px;
+}
+.voyage .x5812-C61RwL {
+  background-color: rgba(59,59,59,1.0);
+  height: 20px;
+  left: 1243px;
+  position: absolute;
+  top: 28px;
+  width: 22px;
+}
+.voyage .x5825-C61RwL {
+  background-color: var(--dodger-blue);
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 216px;
+  width: 60px;
+}
+.voyage .x5830-miH9nW {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+.voyage .x5853-zffzcC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 10px;
+  position: absolute;
+  right: calc(50.00% - 20px);
+  width: 40px;
+}
+.voyage .x5878-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: 1145px;
+  position: absolute;
+  top: 97px;
+  width: 21px;
+}
+.voyage .x5879-miH9nW {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+.voyage .x5880-owxcwe {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+.voyage .x5881-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 1181px;
+  position: absolute;
+  top: 154px;
+  width: 29px;
+}
+.voyage .x5882-C61RwL {
+  background-color: transparent;
+  height: 27px;
+  left: 1233px;
+  position: absolute;
+  top: 154px;
+  width: 33px;
+}
+.voyage .x5887-C61RwL {
+  background-color: transparent;
+  height: 70px;
+  left: -334px;
+  position: absolute;
+  top: 3002px;
+  width: 1920px;
+}
+.voyage .x5889-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 95px;
+  position: absolute;
+  top: 3135px;
+  width: 1063px;
+}
+.voyage .x5890-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  left: 38px;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5891-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  left: calc(18.92% - 26px);
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5892-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  left: calc(34.41% - 48px);
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5893-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  position: absolute;
+  right: calc(50.00% - 70px);
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5894-73BI3V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5894-aAssQf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5894-v0HjJX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5894-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  position: absolute;
+  right: calc(34.50% - 48px);
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5895-73BI3V {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5895-aAssQf {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5895-v0HjJX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x5895-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  position: absolute;
+  right: calc(19.01% - 27px);
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5896-zffzcC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: calc(100.00% - 28px);
+  position: absolute;
+  right: 39px;
+  top: 0px;
+  width: 140px;
+}
+.voyage .x5897-zffzcC {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: calc(37.86% - 8px);
+  width: 100%;
+}
+.voyage .x59-AJyY4g {
+  background-color: transparent;
+  bottom: 1px;
+  height: 29px;
+  left: calc(47.28% - 11px);
+  position: absolute;
+  width: 23px;
+}
+.voyage .x59-vfbjtJ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  left: calc(47.28% - 9px);
+  position: absolute;
+  width: 19px;
+}
+.voyage .x5901-1ob1S4 {
+  background-color: transparent;
+  height: 130px;
+  left: 28px;
+  position: absolute;
+  top: 0px;
+  width: 940px;
+}
+.voyage .x5901-NcLCYO {
+  background-color: transparent;
+  height: 130px;
+  left: 28px;
+  position: absolute;
+  top: 0px;
+  width: 940px;
+}
+.voyage .x5901-bxmABf {
+  background-color: transparent;
+  height: 130px;
+  left: 28px;
+  position: absolute;
+  top: 0px;
+  width: 940px;
+}
+.voyage .x6-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 1132px;
+  position: absolute;
+  top: 98px;
+  width: 1px;
+}
+.voyage .x6-VMr6Om {
+  background-color: transparent;
+  height: 45px;
+  left: 1112px;
+  position: absolute;
+  top: 3300px;
+  width: 45px;
+}
+.voyage .x60-AJyY4g {
+  background-color: transparent;
+  bottom: 1px;
+  height: 29px;
+  left: calc(25.38% - 5px);
+  position: absolute;
+  width: 21px;
+}
+.voyage .x60-vfbjtJ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  left: calc(25.38% - 4px);
+  position: absolute;
+  width: 17px;
+}
+.voyage .x6010-C61RwL {
+  background-color: var(--gallery);
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 1280px;
+}
+.voyage .x6012-C61RwL {
+  background-color: var(--gallery);
+  height: 60px;
+  left: 15px;
+  position: absolute;
+  top: 216px;
+  width: 1250px;
+}
+.voyage .x6013-C61RwL {
+  background-color: var(--white);
+  height: 59px;
+  left: 15px;
+  position: absolute;
+  top: 217px;
+  width: 1250px;
+}
+.voyage .x6024-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 15px;
+  position: absolute;
+  top: 321px;
+  width: 1250px;
+}
+.voyage .x6025-C61RwL {
+  background-color: transparent;
+  height: 228px;
+  left: 15px;
+  position: absolute;
+  top: 425px;
+  width: 1250px;
+}
+.voyage .x6026-C61RwL {
+  background-color: transparent;
+  height: 698px;
+  left: 7px;
+  position: absolute;
+  top: 703px;
+  width: 1261px;
+}
+.voyage .x6027-C61RwL {
+  background-color: transparent;
+  height: 698px;
+  left: 10px;
+  position: absolute;
+  top: 1452px;
+  width: 1261px;
+}
+.voyage .x6028-C61RwL {
+  background-color: transparent;
+  height: 698px;
+  left: 10px;
+  position: absolute;
+  top: 2202px;
+  width: 1261px;
+}
+.voyage .x61-AJyY4g {
+  background-color: transparent;
+  bottom: 1px;
+  height: 29px;
+  position: absolute;
+  right: 0px;
+  width: 26px;
+}
+.voyage .x61-vfbjtJ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  position: absolute;
+  right: 1px;
+  width: 21px;
+}
+.voyage .x62-AJyY4g {
+  background-color: transparent;
+  bottom: 1px;
+  height: 30px;
+  position: absolute;
+  right: calc(18.80% - 6px);
+  width: 31px;
+}
+.voyage .x62-vfbjtJ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 24px;
+  position: absolute;
+  right: calc(18.80% - 5px);
+  width: 25px;
+}
+.voyage .x63-AJyY4g {
+  background-color: transparent;
+  bottom: 1px;
+  height: 29px;
+  position: absolute;
+  right: calc(36.69% - 8px);
+  width: 21px;
+}
+.voyage .x63-u4gxT8 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(90deg);
+  width: 100%;
+}
+.voyage .x63-vfbjtJ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 23px;
+  position: absolute;
+  right: calc(36.69% - 6px);
+  width: 17px;
+}
+.voyage .x64-2dXvf2 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-9H9UgM {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-AJyY4g {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 39px;
+}
+.voyage .x64-EdjAPJ {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-WRpEbA {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-n7LZdK {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-nYrbPa {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-rwomxF {
+  background-color: transparent;
+  border-radius: 10px;
+  height: calc(100.00% - 36px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.voyage .x64-vfbjtJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+.voyage .x66-VmKgPQ {
+  background-color: transparent;
+  height: 39px;
+  left: calc(24.03% - 73px);
+  position: absolute;
+  top: calc(48.39% - 19px);
+  width: 303px;
+}
+.voyage .x67-VmKgPQ {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: calc(40.51% - 78px);
+  top: calc(50.00% - 18px);
+  width: 192px;
+}
+.voyage .x68-VmKgPQ {
+  background-color: transparent;
+  height: 36px;
+  position: absolute;
+  right: calc(28.06% - 39px);
+  top: calc(50.00% - 18px);
+  width: 138px;
+}
+.voyage .x69-VmKgPQ {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: calc(18.97% - 17px);
+  top: calc(44.00% - 9px);
+  width: 91px;
+}
+.voyage .x7-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 400px;
+  position: absolute;
+  top: 161px;
+  width: 1px;
+}
+.voyage .x7-VMr6Om {
+  background-color: transparent;
+  height: 45px;
+  left: 1051px;
+  position: absolute;
+  top: 3300px;
+  width: 45px;
+}
+.voyage .x70-VmKgPQ {
+  background-color: transparent;
+  height: 36px;
+  left: calc(44.59% - 81px);
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 182px;
+}
+.voyage .x74-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 867px;
+  position: absolute;
+  top: 3259px;
+  width: 370px;
+}
+.voyage .x75-C61RwL {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 29px;
+  left: 1134px;
+  position: absolute;
+  top: 3259px;
+  width: 103px;
+}
+.voyage .x76-C61RwL {
+  background-color: var(--dodger-blue);
+  height: 151px;
+  left: -334px;
+  position: absolute;
+  top: 3237px;
+  width: 1921px;
+}
+.voyage .x8-PlhryW {
+  background-color: transparent;
+  border-radius: 16.0000057220459px/16.000045776367188px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.voyage .x800-1234567-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Roboto', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 3316px;
+  white-space: nowrap;
+  width: auto;
+}
+.voyage .x82-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 461px;
+  position: absolute;
+  top: 3244px;
+  width: 138px;
+}
+.voyage .x9-1ob1S4 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: calc(100.00% - 140px);
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 100%;
+  padding: 0 2px;
+  position: absolute;
+  top: 140px;
+  width: auto;
+}
+.voyage .x9-NcLCYO {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: calc(100.00% - 140px);
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 100%;
+  padding: 0 2px;
+  position: absolute;
+  top: 140px;
+  width: auto;
+}
+.voyage .x9-bxmABf {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: calc(100.00% - 140px);
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 100%;
+  padding: 0 2px;
+  position: absolute;
+  top: 140px;
+  width: auto;
+}
+.voyage .x9-rqOTCq {
+  background-color: var(--quick-silver);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 10px;
+}
+.voyage .x944-AgwAyN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-AxcFUa {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-IFhAow {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-M3CXDx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-PSXkTR {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-ROvmCG {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-THaBEx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-cz9SRC {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-fWHfEj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-npGXGE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-oL0GOw {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x944-zVx3xD {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-AgwAyN {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-AxcFUa {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-IFhAow {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-M3CXDx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-PSXkTR {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-ROvmCG {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-THaBEx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-cz9SRC {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-fWHfEj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-npGXGE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-oL0GOw {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x945-zVx3xD {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 2px;
+  position: absolute;
+  top: -2px;
+  width: calc(100.00% - 1px);
+}
+.voyage .x946-G6jAgi {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-J5errQ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-R3ghUz {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-RAeQCF {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-UX0F0y {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-g89Tgt {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-kKH5C6 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-lvV8xI {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-soUx5O {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-tib4hN {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-xc4SLg {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x946-zmifE3 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: calc(46.81% - 4px);
+  position: absolute;
+  width: 8px;
+}
+.voyage .x972-800-123-4567-MiNAnM {
+  background-color: transparent;
+  bottom: -4px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+:root {
+  --cape-cod: rgba(66,66,66,1.0);
+  --celeste: rgba(204,204,204,1.0);
+  --cultured-pearl: rgba(245,245,245,1.0);
+  --dodger-blue: rgba(33,150,243,1.0);
+  --gallery: rgba(238,238,238,1.0);
+  --mine-shaft: rgba(51,51,51,1.0);
+  --quick-silver: rgba(168,168,168,1.0);
+  --tuatara: rgba(54,54,54,1.0);
+  --tundora: rgba(70,70,70,1.0);
+  --white: rgba(255,255,255,1.0);
+}
